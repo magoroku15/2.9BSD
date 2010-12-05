@@ -1,0 +1,15 @@
+
+- How to start simh with this system in ubuntu.
+ pdp11 bsd.ini
+ 
+- How to boot.
+ rl(0,0)rlunix
+
+- How to change multiuser
+ login: root
+
+- How to quit shimh
+ # sync; sync; sync;
+ ^e
+sim> q
+
